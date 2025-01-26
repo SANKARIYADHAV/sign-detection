@@ -1,10 +1,10 @@
-Sign Detection using Machine Learning and Computer Vision
-
-Overview
+**Sign Detection using Machine Learning and Computer Vision**
+**
+Overview**
 
 This project implements a system to detect and interpret sign language using machine learning (ML) and computer vision techniques. The goal is to facilitate communication by converting sign language gestures into text or speech in real-time, enabling seamless interaction between sign language users and non-signers.
-
-Features
+**
+Features**
 
 Real-Time Detection: Recognizes and interprets sign language gestures in real time.
 
